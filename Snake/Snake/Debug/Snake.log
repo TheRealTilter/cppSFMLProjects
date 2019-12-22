@@ -1,0 +1,5 @@
+﻿  Snake.cpp
+e:\visual studio stuff\projects\snake\snake\snake.cpp(120): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+e:\visual studio stuff\projects\snake\snake\snake.cpp(121): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+e:\visual studio stuff\projects\snake\snake\snake.cpp(122): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Snake.vcxproj -> E:\Visual Studio Stuff\Projects\Snake\Debug\Snake.exe
